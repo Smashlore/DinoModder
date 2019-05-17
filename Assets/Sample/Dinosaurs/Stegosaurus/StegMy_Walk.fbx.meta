@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 3717d089da1c7bd45977d167388eeeb9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Steg
+    100002: StegHead
+    100004: StegJaw
+    100006: StegLFLeg1
+    100008: StegLFLeg2
+    100010: StegLFLegCollarbone
+    100012: StegLFLegPalm
+    100014: StegLFLegPlatform
+    100016: StegLRLeg1
+    100018: StegLRLeg2
+    100020: StegLRLegPalm
+    100022: StegLRLegPlatform
+    100024: //RootNode
+    100026: StegNeck1
+    100028: StegNeck2
+    100030: StegNeck3
+    100032: Stegosaurus_1
+    100034: StegPelvis
+    100036: StegRFLeg1
+    100038: StegRFLeg2
+    100040: StegRFLegCollarbone
+    100042: StegRFLegPalm
+    100044: StegRFLegPlatform
+    100046: StegRibcage
+    100048: StegRibcageBone001
+    100050: StegRibcageBone002
+    100052: StegRibcageBone003
+    100054: StegRibcageBone004
+    100056: StegRRLeg1
+    100058: StegRRLeg2
+    100060: StegRRLegPalm
+    100062: StegRRLegPlatform
+    100064: StegSpine1
+    100066: StegSpine2
+    100068: StegSpine3
+    100070: StegTail1
+    100072: StegTail2
+    100074: StegTail3
+    100076: Stegosaurus_Mesh
+    400000: Steg
+    400002: StegHead
+    400004: StegJaw
+    400006: StegLFLeg1
+    400008: StegLFLeg2
+    400010: StegLFLegCollarbone
+    400012: StegLFLegPalm
+    400014: StegLFLegPlatform
+    400016: StegLRLeg1
+    400018: StegLRLeg2
+    400020: StegLRLegPalm
+    400022: StegLRLegPlatform
+    400024: //RootNode
+    400026: StegNeck1
+    400028: StegNeck2
+    400030: StegNeck3
+    400032: Stegosaurus_1
+    400034: StegPelvis
+    400036: StegRFLeg1
+    400038: StegRFLeg2
+    400040: StegRFLegCollarbone
+    400042: StegRFLegPalm
+    400044: StegRFLegPlatform
+    400046: StegRibcage
+    400048: StegRibcageBone001
+    400050: StegRibcageBone002
+    400052: StegRibcageBone003
+    400054: StegRibcageBone004
+    400056: StegRRLeg1
+    400058: StegRRLeg2
+    400060: StegRRLegPalm
+    400062: StegRRLegPlatform
+    400064: StegSpine1
+    400066: StegSpine2
+    400068: StegSpine3
+    400070: StegTail1
+    400072: StegTail2
+    400074: StegTail3
+    400076: Stegosaurus_Mesh
+    4300000: Stegosaurus_1
+    4300002: Stegosaurus_Mesh
+    7400000: Steg_WalkSoundOld
+    9500000: //RootNode
+    13700000: Stegosaurus_1
+    13700002: Stegosaurus_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StegosaurusMat
+    second: {fileID: 2100000, guid: 95b55e98a5da0dd48a80a5b25c4aa507, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Steg_WalkSoundOld
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Steg
+        weight: 1
+      - path: StegLFLegPlatform
+        weight: 1
+      - path: StegLRLegPlatform
+        weight: 1
+      - path: Stegosaurus_1
+        weight: 1
+      - path: StegPelvis
+        weight: 1
+      - path: StegPelvis/StegLRLeg1
+        weight: 1
+      - path: StegPelvis/StegLRLeg1/StegLRLeg2
+        weight: 1
+      - path: StegPelvis/StegLRLeg1/StegLRLeg2/StegLRLegPalm
+        weight: 1
+      - path: StegPelvis/StegRRLeg1
+        weight: 1
+      - path: StegPelvis/StegRRLeg1/StegRRLeg2
+        weight: 1
+      - path: StegPelvis/StegRRLeg1/StegRRLeg2/StegRRLegPalm
+        weight: 1
+      - path: StegPelvis/StegSpine1
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegLFLegCollarbone
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegLFLegCollarbone/StegLFLeg1
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegLFLegCollarbone/StegLFLeg1/StegLFLeg2
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegLFLegCollarbone/StegLFLeg1/StegLFLeg2/StegLFLegPalm
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegNeck1
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegNeck1/StegNeck2
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegNeck1/StegNeck2/StegNeck3
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegNeck1/StegNeck2/StegNeck3/StegHead
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegNeck1/StegNeck2/StegNeck3/StegHead/StegJaw
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRFLegCollarbone
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRFLegCollarbone/StegRFLeg1
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRFLegCollarbone/StegRFLeg1/StegRFLeg2
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRFLegCollarbone/StegRFLeg1/StegRFLeg2/StegRFLegPalm
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRibcageBone001
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRibcageBone002
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRibcageBone003
+        weight: 1
+      - path: StegPelvis/StegSpine1/StegSpine2/StegSpine3/StegRibcage/StegRibcageBone004
+        weight: 1
+      - path: StegPelvis/StegTail1
+        weight: 1
+      - path: StegPelvis/StegTail1/StegTail2
+        weight: 1
+      - path: StegPelvis/StegTail1/StegTail2/StegTail3
+        weight: 1
+      - path: StegRFLegPlatform
+        weight: 1
+      - path: StegRRLegPlatform
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 108
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: StegPelvis
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

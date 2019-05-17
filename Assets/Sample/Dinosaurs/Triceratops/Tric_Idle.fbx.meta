@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 900731c5dd28d8f439ce3e1ee5bae07d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Steg
+    100002: StegHead
+    100004: StegJaw
+    100006: StegLFLeg1
+    100008: StegLFLeg2
+    100010: StegLFLegCollarbone
+    100012: StegLFLegDigit11
+    100014: StegLFLegPalm
+    100016: StegLFLegPlatform
+    100018: StegLRLeg1
+    100020: StegLRLeg2
+    100022: StegLRLegDigit11
+    100024: StegLRLegPalm
+    100026: StegLRLegPlatform
+    100028: StegNeck1
+    100030: StegNeck2
+    100032: StegNeck3
+    100034: StegPelvis
+    100036: StegRFLeg1
+    100038: StegRFLeg2
+    100040: StegRFLegCollarbone
+    100042: StegRFLegDigit11
+    100044: StegRFLegPalm
+    100046: StegRFLegPlatform
+    100048: StegRibcage
+    100050: StegRRLeg1
+    100052: StegRRLeg2
+    100054: StegRRLegDigit11
+    100056: StegRRLegPalm
+    100058: StegRRLegPlatform
+    100060: StegSpine1
+    100062: StegSpine2
+    100064: StegSpine3
+    100066: StegTail1
+    100068: StegTail2
+    100070: StegTail3
+    100072: //RootNode
+    100074: Triceratops_Mesh
+    400000: Steg
+    400002: StegHead
+    400004: StegJaw
+    400006: StegLFLeg1
+    400008: StegLFLeg2
+    400010: StegLFLegCollarbone
+    400012: StegLFLegDigit11
+    400014: StegLFLegPalm
+    400016: StegLFLegPlatform
+    400018: StegLRLeg1
+    400020: StegLRLeg2
+    400022: StegLRLegDigit11
+    400024: StegLRLegPalm
+    400026: StegLRLegPlatform
+    400028: StegNeck1
+    400030: StegNeck2
+    400032: StegNeck3
+    400034: StegPelvis
+    400036: StegRFLeg1
+    400038: StegRFLeg2
+    400040: StegRFLegCollarbone
+    400042: StegRFLegDigit11
+    400044: StegRFLegPalm
+    400046: StegRFLegPlatform
+    400048: StegRibcage
+    400050: StegRRLeg1
+    400052: StegRRLeg2
+    400054: StegRRLegDigit11
+    400056: StegRRLegPalm
+    400058: StegRRLegPlatform
+    400060: StegSpine1
+    400062: StegSpine2
+    400064: StegSpine3
+    400066: StegTail1
+    400068: StegTail2
+    400070: StegTail3
+    400072: //RootNode
+    400074: Triceratops_Mesh
+    2100000: No Name
+    4300000: Triceratops_Mesh
+    7400000: Tric_Idle
+    9500000: //RootNode
+    13700000: Triceratops_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tric_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 130
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: StegPelvis
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b046c14ba5a8d174282a00c9f6bc47f8,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

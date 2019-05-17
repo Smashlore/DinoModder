@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 6cdbf695369c7b647934e177afd04598
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Allosaur
+    100002: AllosaurHead
+    100004: AllosaurHeadBone0
+    100006: AllosaurLArm1
+    100008: AllosaurLArm21
+    100010: AllosaurLArm22
+    100012: AllosaurLArmCollarbone
+    100014: AllosaurLArmPalm
+    100016: AllosaurLLeg1
+    100018: AllosaurLLeg2
+    100020: AllosaurLLegDigit11
+    100022: AllosaurLLegDigit12
+    100024: AllosaurLLegDigit21
+    100026: AllosaurLLegDigit22
+    100028: AllosaurLLegDigit31
+    100030: AllosaurLLegDigit32
+    100032: AllosaurLLegPalm
+    100034: AllosaurLLegPlatform
+    100036: AllosaurNeck1
+    100038: AllosaurNeck2
+    100040: AllosaurNeck3
+    100042: AllosaurNeck4
+    100044: AllosaurPelvis
+    100046: AllosaurRArm1
+    100048: AllosaurRArm21
+    100050: AllosaurRArm22
+    100052: AllosaurRArmCollarbone
+    100054: AllosaurRArmPalm
+    100056: AllosaurRibcage
+    100058: AllosaurRibcageBone001
+    100060: AllosaurRibcageBone002
+    100062: AllosaurRibcageBone003
+    100064: AllosaurRLeg1
+    100066: AllosaurRLeg2
+    100068: AllosaurRLegDigit11
+    100070: AllosaurRLegDigit12
+    100072: AllosaurRLegDigit21
+    100074: AllosaurRLegDigit22
+    100076: AllosaurRLegDigit31
+    100078: AllosaurRLegDigit32
+    100080: AllosaurRLegPalm
+    100082: AllosaurRLegPlatform
+    100084: AllosaurSpine1
+    100086: AllosaurSpine2
+    100088: AllosaurSpine3
+    100090: AllosaurTail01
+    100092: AllosaurTail02
+    100094: AllosaurTail03
+    100096: AllosaurTail04
+    100098: //RootNode
+    100100: TyrannosaurusRex
+    100102: AllosaurHeadBone
+    100104: AllosaurJaw
+    400000: Allosaur
+    400002: AllosaurHead
+    400004: AllosaurHeadBone0
+    400006: AllosaurLArm1
+    400008: AllosaurLArm21
+    400010: AllosaurLArm22
+    400012: AllosaurLArmCollarbone
+    400014: AllosaurLArmPalm
+    400016: AllosaurLLeg1
+    400018: AllosaurLLeg2
+    400020: AllosaurLLegDigit11
+    400022: AllosaurLLegDigit12
+    400024: AllosaurLLegDigit21
+    400026: AllosaurLLegDigit22
+    400028: AllosaurLLegDigit31
+    400030: AllosaurLLegDigit32
+    400032: AllosaurLLegPalm
+    400034: AllosaurLLegPlatform
+    400036: AllosaurNeck1
+    400038: AllosaurNeck2
+    400040: AllosaurNeck3
+    400042: AllosaurNeck4
+    400044: AllosaurPelvis
+    400046: AllosaurRArm1
+    400048: AllosaurRArm21
+    400050: AllosaurRArm22
+    400052: AllosaurRArmCollarbone
+    400054: AllosaurRArmPalm
+    400056: AllosaurRibcage
+    400058: AllosaurRibcageBone001
+    400060: AllosaurRibcageBone002
+    400062: AllosaurRibcageBone003
+    400064: AllosaurRLeg1
+    400066: AllosaurRLeg2
+    400068: AllosaurRLegDigit11
+    400070: AllosaurRLegDigit12
+    400072: AllosaurRLegDigit21
+    400074: AllosaurRLegDigit22
+    400076: AllosaurRLegDigit31
+    400078: AllosaurRLegDigit32
+    400080: AllosaurRLegPalm
+    400082: AllosaurRLegPlatform
+    400084: AllosaurSpine1
+    400086: AllosaurSpine2
+    400088: AllosaurSpine3
+    400090: AllosaurTail01
+    400092: AllosaurTail02
+    400094: AllosaurTail03
+    400096: AllosaurTail04
+    400098: //RootNode
+    400100: TyrannosaurusRex
+    400102: AllosaurHeadBone
+    400104: AllosaurJaw
+    4300000: TyrannosaurusRex
+    7400000: TRex_WalkSound
+    9500000: //RootNode
+    13700000: TyrannosaurusRex
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0ef863f9c385a0b4bb728984fc663f92, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TRex_WalkSound
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.42159232
+        functionName: PlayFootFX
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 53f65ad54f2f4ea4e80dcdcc1092a7be,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45450896
+        functionName: PlayFootStep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 53f65ad54f2f4ea4e80dcdcc1092a7be,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.89714485
+        functionName: PlayFootFX
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 53f65ad54f2f4ea4e80dcdcc1092a7be,
+          type: 3}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      - time: 0.9116825
+        functionName: PlayFootStep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 53f65ad54f2f4ea4e80dcdcc1092a7be,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 108
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: AllosaurPelvis
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: e5ff81de4a6c67942b72dc0d50b23126
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Achelousaurus
+    100002: //RootNode
+    100004: Steg
+    100006: StegHead
+    100008: StegJaw
+    100010: StegLFLeg1
+    100012: StegLFLeg2
+    100014: StegLFLegCollarbone
+    100016: StegLFLegDigit11
+    100018: StegLFLegPalm
+    100020: StegLFLegPlatform
+    100022: StegLRLeg1
+    100024: StegLRLeg2
+    100026: StegLRLegDigit11
+    100028: StegLRLegPalm
+    100030: StegLRLegPlatform
+    100032: StegNeck1
+    100034: StegNeck2
+    100036: StegNeck3
+    100038: StegPelvis
+    100040: StegRFLeg1
+    100042: StegRFLeg2
+    100044: StegRFLegCollarbone
+    100046: StegRFLegDigit11
+    100048: StegRFLegPalm
+    100050: StegRFLegPlatform
+    100052: StegRibcage
+    100054: StegRRLeg1
+    100056: StegRRLeg2
+    100058: StegRRLegDigit11
+    100060: StegRRLegPalm
+    100062: StegRRLegPlatform
+    100064: StegSpine1
+    100066: StegSpine2
+    100068: StegSpine3
+    100070: StegTail1
+    100072: StegTail2
+    100074: StegTail3
+    100076: AchelousaurusWorkshop
+    400000: Achelousaurus
+    400002: //RootNode
+    400004: Steg
+    400006: StegHead
+    400008: StegJaw
+    400010: StegLFLeg1
+    400012: StegLFLeg2
+    400014: StegLFLegCollarbone
+    400016: StegLFLegDigit11
+    400018: StegLFLegPalm
+    400020: StegLFLegPlatform
+    400022: StegLRLeg1
+    400024: StegLRLeg2
+    400026: StegLRLegDigit11
+    400028: StegLRLegPalm
+    400030: StegLRLegPlatform
+    400032: StegNeck1
+    400034: StegNeck2
+    400036: StegNeck3
+    400038: StegPelvis
+    400040: StegRFLeg1
+    400042: StegRFLeg2
+    400044: StegRFLegCollarbone
+    400046: StegRFLegDigit11
+    400048: StegRFLegPalm
+    400050: StegRFLegPlatform
+    400052: StegRibcage
+    400054: StegRRLeg1
+    400056: StegRRLeg2
+    400058: StegRRLegDigit11
+    400060: StegRRLegPalm
+    400062: StegRRLegPlatform
+    400064: StegSpine1
+    400066: StegSpine2
+    400068: StegSpine3
+    400070: StegTail1
+    400072: StegTail2
+    400074: StegTail3
+    400076: AchelousaurusWorkshop
+    2100000: No Name
+    4300000: Achelousaurus
+    4300002: AchelousaurusWorkshop
+    9500000: //RootNode
+    13700000: Achelousaurus
+    13700002: AchelousaurusWorkshop
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 108
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

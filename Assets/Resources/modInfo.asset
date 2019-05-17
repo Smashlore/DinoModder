@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c375328a7a60b82469ab35e02c8f278c, type: 3}
+  m_Name: modInfo
+  m_EditorClassIdentifier: 
+  m_expotCount: 1
+  m_exportList:
+  - {fileID: 1785569344378814, guid: 2b53f686092f46e449231ccf1118d24c, type: 2}
+  m_tagList: []
+  m_guid: 4775928749959406515
+  m_name: New Mod
+  m_des: 'This is the test mod
+
+'
+  m_path: 
+  m_item: 0
+  m_user: 0
+  m_previewImage: {fileID: 2800000, guid: e467a4ba41af312408b6700afe721552, type: 3}
