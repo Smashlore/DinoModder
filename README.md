@@ -1,2 +1,2 @@
 # DinoModder
-Workshop unity starter projects for Parkasaurus
+Workshop unity starter project for Parkasaurus
