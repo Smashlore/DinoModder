@@ -151,6 +151,21 @@ public class DinoWindow : EditorWindow
 
 
             List<string> dependencies = new List<string>();
+            List<string> dependenciesName = new List<string>();
+
+            {
+                string assetPath = AssetDatabase.GetAssetPath(m_modSave);
+                dependenciesName.Add("m_modSave");
+                dependencies.Add(assetPath);
+                Debug.Log("Adding " + assetPath + " added to mod pack");
+            }
+            if (m_modSave.m_previewImage)
+            {
+                string assetPath = AssetDatabase.GetAssetPath(m_modSave.m_previewImage);
+                dependencies.Add(assetPath);
+                Debug.Log("Adding " + assetPath + " added to mod pack");
+            }
+
             for (int x = 0; x < count; x++)
             {
                 string assetPath = AssetDatabase.GetAssetPath(m_modSave.m_exportList[x]);
@@ -158,22 +173,15 @@ public class DinoWindow : EditorWindow
                 Debug.Log("Adding " + assetPath + " added to mod pack");
 
             }
-            { 
-                string assetPath = AssetDatabase.GetAssetPath(m_modSave);
-                dependencies.Add(assetPath);
-                Debug.Log("Adding " + assetPath + " added to mod pack");
-            }
-            if(m_modSave.m_previewImage)
-            {
-                string assetPath = AssetDatabase.GetAssetPath(m_modSave.m_previewImage);
-                dependencies.Add(assetPath);
-                Debug.Log("Adding " + assetPath + " added to mod pack");
-            }
-     
-            buildMap[0].assetBundleName = "mod";
-            buildMap[0].assetNames = dependencies.ToArray();            
 
-            BuildPipeline.BuildAssetBundles(path,buildMap, BuildAssetBundleOptions.CollectDependencies, BuildTarget.StandaloneWindows);
+            buildMap[0].assetBundleName = "mod";
+            buildMap[0].assetNames = dependencies.ToArray() ;
+
+
+
+
+
+            BuildPipeline.BuildAssetBundles(path,buildMap, BuildAssetBundleOptions.StrictMode, BuildTarget.StandaloneWindows64);
             Debug.Log("Mod Making Completed to " + path);
             EditorUtility.SetDirty(m_modSave);
             AssetDatabase.SaveAssets();
