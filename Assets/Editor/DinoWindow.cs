@@ -138,8 +138,7 @@ public class DinoWindow : EditorWindow
                 m_modSave.m_guid = System.BitConverter.ToInt64(buffer, 0);
             }
             string path = Path.GetFullPath(Application.persistentDataPath + "/../../Washbear/Parkasaurus/Mods/" + m_modSave.m_guid.ToString());
-            DirectoryInfo info = null;
-
+             
             if (!Directory.Exists(path))
             {
                 Directory.CreateDirectory(path);

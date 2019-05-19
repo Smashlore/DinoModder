@@ -613,7 +613,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: c1e0f24467bd5214d9cefc67f45d85a2, type: 2}
+  - {fileID: 2100000, guid: 64d967d160dd99a4681f1dc02c82f550, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1088,7 +1088,7 @@ MonoBehaviour:
   m_type: 2
   m_useCustomColors: 0
   m_price: 500
-  m_previewImage: {fileID: 21300000, guid: 7cdaf46edc648f9468b0194c3e5cf6b5, type: 3}
+  m_previewImage: {fileID: 21300000, guid: e467a4ba41af312408b6700afe721552, type: 3}
   m_gridWidth: 5
   m_gridLength: 5
   m_PathOnNorthSide: 0
