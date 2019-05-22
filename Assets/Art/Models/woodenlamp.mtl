@@ -1,0 +1,17 @@
+# Made using Asset Forge (www.assetforge.io) version 1.3 
+
+newmtl darkStone (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.03997299 0.03997299 0.03997299 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl roof (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 1 0.8090454 0.2363633 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl wood (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.2499997 0.09146331 0 
+Ks 0.330000 0.330000 0.330000 
+
