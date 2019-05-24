@@ -30,7 +30,6 @@ public class DinoAssetInspetor : Editor
             excludedProperties.Add("m_food");
             excludedProperties.Add("m_energy");
             excludedProperties.Add("m_scenery");
-            excludedProperties.Add("m_previewImage");
             
         }
 
@@ -51,7 +50,9 @@ public class DinoAssetInspetor : Editor
             excludedProperties.Add("m_PathOnSouthSide");
             excludedProperties.Add("m_PathOnWestSide");
             excludedProperties.Add("m_PathOnAllSides");
-          
+
+            excludedProperties.Add("m_previewImage");
+
         }
 
         if (
