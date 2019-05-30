@@ -67,6 +67,9 @@ public class DinoWindow : EditorWindow
             }
             catch (UnityException e)
             {
+                if (e != null)
+                {
+                }
                 SetTextureImporterFormat(m_modSave.m_previewImage, true);
             }
         }
