@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -13,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_expotCount: 1
   m_exportList:
-  - {fileID: 1119397887032194, guid: 1f21f44c4e79e954ebdfc9116f3763f7, type: 2}
+  - {fileID: 1119397887032194, guid: 1f21f44c4e79e954ebdfc9116f3763f7, type: 3}
   m_tagList: []
   m_guid: 4775928749959406515
   m_name: New Mod
